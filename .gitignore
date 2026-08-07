@@ -50,3 +50,5 @@ ENV/lib/
 *.njsproj
 *.sln
 *.sw?
+
+DNN Assgnment2/cats_dogs_data/
